@@ -1,13 +1,13 @@
 import { DefaultSeo } from "next-seo";
 
 const config = {
-  title: "Brian Ruiz",
+  title: "Temoso Chueu",
   description: "Software engineer, and content creator",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://b-r.io",
-    site_name: "Brian Ruiz",
+    site_name: "Kalophain",
     images: [
       {
         url: "https://b-r.io/og.png",
@@ -16,7 +16,7 @@ const config = {
     ],
   },
   twitter: {
-    handle: "@brianruizy",
+    handle: "@kalophain",
     site: "@og.jpg",
     cardType: "summary_large_image",
   },
